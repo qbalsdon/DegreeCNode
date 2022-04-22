@@ -1,3 +1,5 @@
+# DEPRECATED: This project is no longer maintained
+
 # Welcome to the DegreeC Node
 
 You will need to create a Firebase project and get the auth code, and create a constants.h file in the same directory as DegreeCNode.ino that looks like the following:
